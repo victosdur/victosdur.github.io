@@ -1,0 +1,17 @@
+.tituloConLinea {
+    border: none;
+    background: none;
+    padding: 0;
+    cursor: pointer; /* Cambia el cursor al hacer hover para indicar que es clickeable */
+    position: relative; /* Permite posicionar la flecha */
+}
+
+.flecha {
+    margin-left: 5px; /* Espacio entre el texto y la flecha */
+}
+
+/* Cambiar el cursor al pasar sobre el botón */
+.tituloConLinea:hover {
+    cursor: pointer;
+}
+
