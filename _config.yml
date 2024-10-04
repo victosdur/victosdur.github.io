@@ -21,7 +21,7 @@ repository               : "victosdur77/victosdur77.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "FotoIglucoBNRecortada.jpg"
+  avatar           : "FotoIglucoBNRecortada.png"
   name             : "Victor Toscano Durán"
   pronouns         : # example: "she/her"  
   bio              : "Statistician specialized in AI, currently researching on AI and TDA at University of Seville"
@@ -43,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "victosdur77"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
