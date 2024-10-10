@@ -1,5 +1,5 @@
 ---
-title: "Conference Paper Presentation"
+title: "XAI Conference, Paper Presentation"
 collection: talks
 type: "Conference paper presentation"
 permalink: /talks/XAIpaper
