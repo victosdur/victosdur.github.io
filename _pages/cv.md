@@ -9,8 +9,8 @@ redirect_from:
 
 
 
-CV English [Download](https://victosdur77.github.io/files/CV_English_VictorToscanoDuran.pdf)
+- CV English [Download](https://victosdur77.github.io/files/CV_English_VictorToscanoDuran.pdf)
 
-CV Spanish [Download](https://victosdur77.github.io/files/CV_Español_VictorToscanoDuran.pdf)
+- CV Spanish [Download](https://victosdur77.github.io/files/CV_Español_VictorToscanoDuran.pdf)
 
-CVN Spanish [Download](https://victosdur77.github.io/files/CVN_VTD)
+- CVN Spanish [Download](https://victosdur77.github.io/files/CVN_VTD.pdf)
