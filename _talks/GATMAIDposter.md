@@ -10,5 +10,4 @@ location: "Barcelona, España"
 
 Participation in the GATMAID EMS Summer School, organized by the Centre de Recerca Matemàtica from June 25 to 29, 2024 with a poster titled "Representative measure approach to assess decision trees reliability".
 
-Participation in The 2nd World Conference on eXplainable Artificial Intelligence with a poster introducing the thesis topic and objectives.
 [Download poster](https://victosdur77.github.io/files/GATMAID_EMS_SUMMER_SCHOOL_posterV_VTD.pdf)
