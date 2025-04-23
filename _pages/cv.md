@@ -9,6 +9,6 @@ redirect_from:
 
 
 
-- CV English [Download](https://victosdur77.github.io/files/CV_English_VictorToscanoDuran.pdf)
+- CV English [Download](https://victosdur.github.io/files/CV_English_VictorToscanoDuran.pdf)
 
-- CV Spanish [Download](https://victosdur77.github.io/files/CV_Español_VictorToscanoDuran.pdf)
+- CV Spanish [Download](https://victosdur.github.io/files/CV_Español_VictorToscanoDuran.pdf)
