@@ -10,4 +10,4 @@ location: "La valleta, Malta"
 
 Participation in the Centre for Topological Data Analysis 2024 conference, organized by the University of Oxford with a poster titled "Representative measure approach to assess decision trees reliability".
 
-[Download poster](https://victosdur77.github.io/files/Spires_Oxford_posterV_VTD.pdf)
+[Download poster](https://victosdur.github.io/files/Spires_Oxford_posterV_VTD.pdf)
