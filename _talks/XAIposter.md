@@ -10,4 +10,4 @@ location: "La valleta, Malta"
 
 Participation in Doctoral Consortium at The 2nd World Conference on eXplainable Artificial Intelligence with a poster and proceedings introducing the thesis topic and objectives.
 
-[Download proceedings](https://victosdur77.github.io/files/ProceedingsDoctoralConsortiumXAI.pdf) | [Download poster](https://victosdur77.github.io/files/Poster_DC_Malta.pdf)
+[Download proceedings](https://victosdur.github.io/files/ProceedingsDoctoralConsortiumXAI.pdf) | [Download poster](https://victosdur.github.io/files/Poster_DC_Malta.pdf)
