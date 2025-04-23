@@ -10,4 +10,4 @@ location: "La valleta, Malta"
 
 Participation in The 2nd World Conference on eXplainable Artificial Intelligence with an oral presentation on the [paper](https://victosdur77.github.io/publication/representativeSpringer) published in this conference.
 
-[Download slides](https://victosdur77.github.io/files/Slides_XAI_final.pdf)
+[Download slides](https://victosdur.github.io/files/Slides_XAI_final.pdf)
