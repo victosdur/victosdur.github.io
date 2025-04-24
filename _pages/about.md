@@ -8,18 +8,35 @@ redirect_from:
 ---
 
 
-👨‍🎓 Statistician specialized in Artificial Intelligence, with two years of exeperience as data scientist, and currently researching at University of Seville.
+<hr>
 
-I am a passionate data scientist with a strong academic background and experience in the fields of mathematics and artificial intelligence. I completed my Bachelor's Degree in Statistics at the University of Seville in 2022. Later, I obtained a Master's Degree in Logic, Computing, and Artificial Intelligence in 2023, also at the University of Seville, with a thesis focused on predicting glucose levels using artificial intelligence. Shortly afterward, I started working as a data scientist at FISEVI, where I performed data analysis. At the end of 2022, I briefly worked as a software developer at Solera before joining Igluco Tech, where I developed deep learning models for non-invasive blood glucose prediction, as well as analyzing data, until December 2023.
+<div>
+👨‍🎓 Statistician specialized in Artificial Intelligence
+</div>
 
+<hr>
+
+<div align="justify">
+
+<p>
+I consider myself as a passionate data scientist with a strong academic background and experience in the fields of mathematics and artificial intelligence. I completed my Bachelor's Degree in Statistics at the University of Seville in 2022. Later, I obtained a Master's Degree in Logic, Computing, and Artificial Intelligence in 2023, also at the University of Seville, with a thesis focused on predicting glucose levels using artificial intelligence. Shortly afterward, I started working as a data scientist at FISEVI, where I performed data analysis. At the end of 2022, I briefly worked as a software developer at Solera before joining Igluco Tech, where I developed deep learning models for non-invasive blood glucose prediction, as well as analyzing data, until December 2023.
+</p>
+
+<p>
 Since then, I have been a pre-doctoral researcher in the Department of Applied Mathematics I at the [University of Seville](https://www.us.es/), participating in the European project [REXASI-PRO](https://rexasi-pro.spindoxlabs.com/). My work focuses on optimizing energy consumption in the detection of people and wheelchairs using the YOLO object detection and localization model, employing data reduction techniques. Additionally, I contribute to improving the behavior of robot fleets through topological methods. In parallel, I am pursuing my PhD in Mathematics at the same university, with research aimed at improving the reliability of neural networks by applying topological data analysis.
+</p>
 
+<p>
 Currently, I am an active member of [CIMAGROUP](https://grupo.us.es/cimagroup/) research group and have contributed with presentations at conferences and publications in areas such as machine learning and topological analysis. I have also obtained relevant certifications in the field of data science, including NVIDIA certifications in deep learning and data science. 
+</p>
 
+<p>
 My focus goes beyond merely acquiring knowledge; I am committed to continuous learning and constant improvement. My enthusiasm for mathematics and AI is reflected in my dedication to challenging projects and my ability to tackle complex problems with innovative solutions.
+</p>
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
+</div>
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Victor Toscano Durán: Research Stays"
+title: "Research Stays"
 permalink: /stays/
 author_profile: true
 redirect_from:

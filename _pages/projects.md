@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Victor Toscano Durán: Projects Involved"
+title: "Projects Involved"
 permalink: /projects/
 author_profile: true
 redirect_from:
