@@ -23,11 +23,11 @@ I consider myself as a passionate data scientist with a strong academic backgrou
 </p>
 
 <p>
-Since then, I have been a pre-doctoral researcher in the Department of Applied Mathematics I at the [University of Seville](https://www.us.es/), participating in the European project [REXASI-PRO](https://rexasi-pro.spindoxlabs.com/). My work focuses on optimizing energy consumption in the detection of people and wheelchairs using the YOLO object detection and localization model, employing data reduction techniques. Additionally, I contribute to improving the behavior of robot fleets through topological methods. In parallel, I am pursuing my PhD in Mathematics at the same university, with research aimed at improving the reliability of neural networks by applying topological data analysis.
+Since then, I have been a pre-doctoral researcher in the Department of Applied Mathematics I at the <a href="https://www.us.es/">University of Seville</a>, participating in the European project <a href="https://rexasi-pro.spindoxlabs.com/">REXASI-PRO</a>. My work focuses on optimizing energy consumption in the detection of people and wheelchairs using the YOLO object detection and localization model, employing data reduction techniques. Additionally, I contribute to improving the behavior of robot fleets through topological methods. In parallel, I am pursuing my PhD in Mathematics at the same university, with research aimed at improving the reliability of neural networks by applying topological data analysis.
 </p>
 
 <p>
-Currently, I am an active member of [CIMAGROUP](https://grupo.us.es/cimagroup/) research group and have contributed with presentations at conferences and publications in areas such as machine learning and topological analysis. I have also obtained relevant certifications in the field of data science, including NVIDIA certifications in deep learning and data science. 
+Currently, I am an active member of <a href="https://grupo.us.es/cimagroup/">CIMAGROUP</a> research group and have contributed with presentations at conferences and publications in areas such as machine learning and topological analysis. I have also obtained relevant certifications in the field of data science, including NVIDIA certifications in deep learning and data science. 
 </p>
 
 <p>
