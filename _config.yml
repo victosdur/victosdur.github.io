@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Victor Toscano Website"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Víctor Toscano Durán"
-description              : &description "Victor Toscano Website and Portfolio"
+name                     : &name "Victor Toscano Durán"
+description              : &description "Victor Toscano Durán's personal website"
 url                      : https://victosdur.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "victosdur/victosdur.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "FotoIglucoBNRecortada.png"
   name             : "Victor Toscano Durán"
   pronouns         : # example: "she/her"  
-  bio              : "Statistician specialized in AI, currently researching and pursuing a PhD in AI and TDA at University of Seville"
+  bio              : "Statistician specialized in AI. AI researcher and PhD student at the University of Seville."
   location         : "Seville, Spain"
   employer         : "University of Sevilla"
   uri              : # URL
-  email            : "vtoscano@us.es" 
+  email            : "victortoscano21@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -211,9 +211,6 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -227,17 +224,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -245,15 +231,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""

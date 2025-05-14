@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Víctor Toscano Durán"
+title: "Welcome! 👋"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,27 +11,40 @@ redirect_from:
 <hr>
 
 <div>
-👨‍🎓 Statistician specialized in Artificial Intelligence
+<p>👨‍🎓 Statistician specialized in Artificial Intelligence.</p>
+<p>🔭 Data Scientist & Artificial Intelligence Researcher.</p>
+<p>🌱 PhD Student in Mathematics and AI, specifically in the intersection between Topological Data Analysis and Machine Learning.</p>
 </div>
 
 <hr>
 
 <div align="justify">
 
+<h2> About me </h2>
+
 <p>
-I consider myself as a passionate data scientist with a strong academic background and experience in the fields of mathematics and artificial intelligence. I completed my Bachelor's Degree in Statistics at the University of Seville in 2022. Later, I obtained a Master's Degree in Logic, Computing, and Artificial Intelligence in 2023, also at the University of Seville, with a thesis focused on predicting glucose levels using artificial intelligence. Shortly afterward, I started working as a data scientist at FISEVI, where I performed data analysis. At the end of 2022, I briefly worked as a software developer at Solera before joining Igluco Tech, where I developed deep learning models for non-invasive blood glucose prediction, as well as analyzing data, until December 2023.
+
+I'm Victor Toscano Durán, an Artificial Intelligence researcher, and PhD Student at the University of Seville in the Applied Mathematics I, and in CIMAGROUP, which is led by Prof. Rocío González Díaz. Previously, I completed my Bachelor's Degree in Statistics at the University of Seville in 2022. Later, I obtained a Master's Degree in Logic, Computation, and Artificial Intelligence in 2023, also at the University of Seville. The PhD is being carried out under the supervision of Prof. <a href="https://personal.us.es/rogodi/index.htm">Rocío González Díaz</a>, <a href="https://www.cs.us.es/~naranjo/">Miguel Ángel Gutiérrez Naranjo</a>, and Dr. <a href="https://www.linkedin.com/in/matteo-rucco-15561a64/">Matteo Rucco</a>
 </p>
 
 <p>
-Since then, I have been a pre-doctoral researcher in the Department of Applied Mathematics I at the <a href="https://www.us.es/">University of Seville</a>, participating in the European project <a href="https://rexasi-pro.spindoxlabs.com/">REXASI-PRO</a>. My work focuses on optimizing energy consumption in the detection of people and wheelchairs using the YOLO object detection and localization model, employing data reduction techniques. Additionally, I contribute to improving the behavior of robot fleets through topological methods. In parallel, I am pursuing my PhD in Mathematics at the same university, with research aimed at improving the reliability of neural networks by applying topological data analysis.
+During the final year of the bachelor, I started an intership as a data scientist at <a href="https://fisevi.com/">Andalusian Public Foundation for Health Research Management in Seville (FISEVI)</a>, where mainly I performed data analysis applying statistical techniques to clinical data, including the elaboration of reports for medical doctors. At the end of 2022, I briefly worked as a software developer at <a href="https://www.solera.com/">Solera</a> before joining <a href="https://www.glucube.com/">Glucube</a> (previously named as Igluco Tech), where I was responsible for developing AI models, as well as performing data analysis, for a non-invasive glucose monitoring device, which was successfully launched to the market while I was still part of the company. This change came about because I knew I wanted to focus mainly on artificial intelligence and data analysis.
 </p>
 
 <p>
-Currently, I am an active member of <a href="https://grupo.us.es/cimagroup/">CIMAGROUP</a> research group and have contributed with presentations at conferences and publications in areas such as machine learning and topological analysis. I have also obtained relevant certifications in the field of data science, including NVIDIA certifications in deep learning and data science. 
+Since then and until September 2025, I am a pre-doctoral researcher in the Department of Applied Mathematics I at the <a href="https://www.us.es/">University of Seville</a>, contracted by the European project <a href="https://rexasi-pro.spindoxlabs.com/">REXASI-PRO</a>. My work focuses on optimizing energy consumption in the detection of people and wheelchairs using the YOLO object detection and localization model, employing data reduction techniques. This, in collaboration with colleagues, achieved the preservation of model performance (such as YOLO for person and wheelchair detection), while using only 25% of the training data, resulting in substantial reductions in computation time, cost, and energy consumption. The results have been published on a <a href="https://open-research-europe.ec.europa.eu/articles/4-101">paper</a> in the Open Research Europe journal.Additionally, I contribute to improving the behavior of robot fleets through topological methods. Related to that, I visited Prof. Maurizio Mongelli and his team from the Consiglio Nazionale delle Ricerche (CNR) in Genoa, Italy during October 2024, where explored the use of computational topology for predicting safe scenarios in robotic simulations using eXplainable Artificial Intelligence techniques, and getting a paper accepted into <a href="https://xaiworldconference.com/2025/">XAI-2025</a>. 
 </p>
 
 <p>
-My focus goes beyond merely acquiring knowledge; I am committed to continuous learning and constant improvement. My enthusiasm for mathematics and AI is reflected in my dedication to challenging projects and my ability to tackle complex problems with innovative solutions.
+I have contributed with presentations at conferences and publications in areas such as machine learning and topological data analysis. I have also obtained relevant certifications in the field of data science, including NVIDIA certifications in deep learning and data science. 
+</p>
+
+<p>
+In short, I consider myself as a passionate researcher and data scientist with such a nice academic background and experience in the fields of mathematics, statistics and artificial intelligence. My focus goes beyond merely acquiring knowledge; I am committed to continuous learning and constant improvement, as AI gives no respite. Obviously, if you would like to collaborate or speak about these topics, feel free to email me. I am always happy to work with new people, as well as get to know new ideas.
+</p>
+
+<p>
+In my free time, I used to practice sport, such as weighlifting and padel (I would like to do a bit of everything 😀), as well as getting lost in nature.
 </p>
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
