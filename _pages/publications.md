@@ -27,7 +27,7 @@ redirect_from:
   <ul>
     <li>
       Perera-Lago, J., <strong>Toscano-Duran, V.</strong>, Paluzo-Hidalgo, E., Narteni, S., Rucco, M. (2024). Application of the Representative Measure Approach to Assess the Reliability of Decision Trees in Dealing with Unseen Vehicle Collision Data. In: Longo, L., Lapuschkin, S., Seifert, C. (eds) Explainable Artificial Intelligence. xAI 2024. Communications in Computer and Information Science, vol 2156. Springer, Cham.<br>
-      <a href="https://victosdur.github.io/files/citations/xai2024.bib">[URL]</a> <a href="ruta-a-la-cita2.bib">[Cite]</a>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-031-63803-9_21">[URL]</a> <a href="https://victosdur.github.io/files/citations/xai2024.bib">[Cite]</a>
     </li>
   </ul>
 </div>
