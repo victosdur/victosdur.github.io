@@ -12,15 +12,20 @@ redirect_from:
 
 <div>
 <p>👨‍🎓 Statistician specialized in Artificial Intelligence.</p>
+
 <p>🔭 Data Scientist & Artificial Intelligence Researcher.</p>
+
 <p>🌱 PhD Student in Mathematics and AI, specifically in the intersection between Topological Data Analysis and Machine Learning.</p>
+
+<p>🤔 My main interests are: Machine Learning, Deep Learning, Computer Vision, Data Analysis, and Applied AI. I enjoy building robust models that solve real-world problems, with a strong focus on interpretability and business impact. I'm particularly curious about emerging techniques such as Topological Data Analysis (TDA), Graph Neural Networks (GNNs), and eXplainable AI (XAI) for healthcare applications.</p>
+
 </div>
 
 <hr>
 
 <div align="justify">
 
-<h2> About me </h2>
+<h2> My story </h2>
 
 <p>
 
@@ -32,15 +37,24 @@ During the final year of the bachelor, I started an intership as a data scientis
 </p>
 
 <p>
-Since then and until September 2025, I am a pre-doctoral researcher in the Department of Applied Mathematics I at the <a href="https://www.us.es/">University of Seville</a>, contracted by the European project <a href="https://rexasi-pro.spindoxlabs.com/">REXASI-PRO</a>. My work focuses on optimizing energy consumption in the detection of people and wheelchairs using the YOLO object detection and localization model, employing data reduction techniques. This, in collaboration with colleagues, achieved the preservation of model performance (such as YOLO for person and wheelchair detection), while using only 25% of the training data, resulting in substantial reductions in computation time, cost, and energy consumption. The results have been published on a <a href="https://open-research-europe.ec.europa.eu/articles/4-101">paper</a> in the Open Research Europe journal.Additionally, I contribute to improving the behavior of robot fleets through topological methods. Related to that, I visited Prof. Maurizio Mongelli and his team from the Consiglio Nazionale delle Ricerche (CNR) in Genoa, Italy during October 2024, where explored the use of computational topology for predicting safe scenarios in robotic simulations using eXplainable Artificial Intelligence techniques, and getting a paper accepted into <a href="https://xaiworldconference.com/2025/">XAI-2025</a>. 
+Since then and until September 2025, I am a pre-doctoral researcher in the Department of Applied Mathematics I at the <a href="https://www.us.es/">University of Seville</a>, contracted by the European project <a href="https://rexasi-pro.spindoxlabs.com/">REXASI-PRO</a>. My work on the project focuses on optimizing energy consumption in the detection of people and wheelchairs using the YOLO object detection and localization model, employing data reduction techniques. This, in collaboration with colleagues, achieved the preservation of model performance (such as YOLO for person and wheelchair detection), while using only 25% of the training data, resulting in substantial reductions in computation time, cost, and energy consumption. The results have been published on a <a href="https://open-research-europe.ec.europa.eu/articles/4-101">paper</a> in the Open Research Europe journal.Additionally, I contribute to improving the behavior of robot fleets through topological methods. Related to that, I visited Prof. Maurizio Mongelli and his team from the Consiglio Nazionale delle Ricerche (CNR) in Genoa, Italy during October 2024, where explored the use of computational topology for predicting safe scenarios in robotic simulations using eXplainable Artificial Intelligence techniques, and getting a paper accepted into <a href="https://xaiworldconference.com/2025/">XAI-2025</a>. 
 </p>
+
+<p>
+Between April and June 2025 (6th April to 6th June), I visited <a href="https://bastian.rieck.me/">Prof. Dr. Bastian Rieck</a> and his lab, the <a href="https://aidos.group/">AIDOS Lab</a> based in the University of Fribourg, Switzerland. The main objective of this research stay was to use topological tools, such as the Euler Characteristic Transform, in the context of computational healthcare, more specifically in molecule learning tasks, and to find out more about what he was working on, with the aim of creating a fruitful collaboration for the future.
+</p>
+
+<p>
+PhD main objective is about exploring how to effectively integrate TDA at different levels of the machine learning process, from feature extraction to the design and evaluation of machine learning techniques and especially neural networks.
+</p>
+
 
 <p>
 I have contributed with presentations at conferences and publications in areas such as machine learning and topological data analysis. I have also obtained relevant certifications in the field of data science, including NVIDIA certifications in deep learning and data science. 
 </p>
 
 <p>
-In short, I consider myself as a passionate researcher and data scientist with such a nice academic background and experience in the fields of mathematics, statistics and artificial intelligence. My focus goes beyond merely acquiring knowledge; I am committed to continuous learning and constant improvement, as AI gives no respite. Obviously, if you would like to collaborate or speak about these topics, feel free to email me. I am always happy to work with new people, as well as get to know new ideas.
+In short, I consider myself as a passionate researcher and data scientist with such a nice academic background and experience in the fields of statistics, artificial intelligence, and mathematics. My focus goes beyond merely acquiring knowledge; I am committed to continuous learning and constant improvement, as AI gives no respite. Obviously, if you would like to collaborate or speak about these topics, feel free to email me. I am always happy to work with new people, as well as get to know new ideas.
 </p>
 
 <p>
