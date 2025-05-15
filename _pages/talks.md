@@ -14,11 +14,11 @@ redirect_from:
   <ul>
     <li>
       Interpolation and Function Approximation Using Neural Networks and Barycentric Coordinates<br>
-      January 2025, Slides for a talk at II Jornadas de Topología de Datos (TDA2025). <a href="https://victosdur.github.io/files/SlidesTalkLogroño">Slides.</a>
+      January 2025, Slides for a talk at II Jornadas de Topología de Datos (TDA2025). <a href="https://victosdur.github.io/files/Slides_Logroño2025.pdf">Slides.</a>
     </li>
     <li>
       Topological Data Analysis for data analysis and AI in robotics<br>
-      October 2024, Slides for seminar at Scuola di Robotica, Genova, Italy.<a href="https://victosdur.github.io/files/SlidesSeminarioGenova.pdf">Slides.</a>
+      October 2024, Slides for seminar at Scuola di Robotica, Genova, Italy. <a href="https://victosdur.github.io/files/SlidesSeminarioGenova.pdf">Slides.</a>
     </li>
     <li>
       Application of the representative measure approach to assess the reliability of decision trees in dealing with unseen vehicle collision data<br>
