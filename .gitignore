@@ -14,5 +14,3 @@ Gemfile.lock
 node_modules
 package-lock.json
 
-# ignore _portfolio by the moment.
-_pages/portfolio.md
