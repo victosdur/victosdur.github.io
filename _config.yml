@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Victor Toscano Durán"
+title                    : "Victor Toscano-Duran"
 title_separator          : "-"
-name                     : &name "Victor Toscano Durán"
-description              : &description "Victor Toscano Durán's personal website"
+name                     : &name "Victor Toscano-Duran"
+description              : &description "Victor Toscano-Duran personal website"
 url                      : https://victosdur.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "victosdur/victosdur.github.io"
@@ -22,7 +22,7 @@ repository               : "victosdur/victosdur.github.io"
 author:
   # Biographic information
   avatar           : "FotoIglucoBNRecortada.png"
-  name             : "Victor Toscano Durán"
+  name             : "Victor Toscano-Duran"
   pronouns         : # example: "she/her"  
   bio              : "Statistician specialized in AI. AI researcher and PhD student at the University of Seville."
   location         : "Seville, Spain"
