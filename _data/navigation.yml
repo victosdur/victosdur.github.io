@@ -17,10 +17,10 @@ main:
   - title: "Research Stays"
     url: /stays/    
 
-# commented to not include these sections
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
+  # commented to not include these sections
   # - title: "Portfolio"
   #   url: /portfolio/
         

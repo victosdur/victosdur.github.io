@@ -13,6 +13,15 @@ redirect_from:
   You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
   </p>
 
+  <h2>Preprints</h2>
+
+  <ul>
+    <li>
+      <strong>V. Toscano-Duran</strong>, S. Narteni, A. Carlevaro, R. Gonzalez-Diaz, M. Mongelli, and J. Guzzi. Safe and efficient social navigation through explainable safety regions based on topological features. Submitted and accepted at The 3rd World Conference on eXplainable Artificial Intelligence. <br>
+      <a href="https://arxiv.org/abs/2503.16441">[URL]</a> <a href="https://victosdur.github.io/files/citations/xai2025preprint.bib">[Cite]</a>
+    </li>
+  </ul>
+
   <h2>Journal Articles</h2>
 
   <ul>
@@ -28,6 +37,15 @@ redirect_from:
     <li>
       Perera-Lago, J., <strong>Toscano-Duran, V.</strong>, Paluzo-Hidalgo, E., Narteni, S., Rucco, M. (2024). Application of the Representative Measure Approach to Assess the Reliability of Decision Trees in Dealing with Unseen Vehicle Collision Data. In: Longo, L., Lapuschkin, S., Seifert, C. (eds) Explainable Artificial Intelligence. xAI 2024. Communications in Computer and Information Science, vol 2156. Springer, Cham.<br>
       <a href="https://link.springer.com/chapter/10.1007/978-3-031-63803-9_21">[URL]</a> <a href="https://victosdur.github.io/files/citations/xai2024.bib">[Cite]</a>
+    </li>
+  </ul>
+
+  <h2>Statistics bachelor thesis</h2>
+
+  <ul>
+    <li>
+      Indicadores estadísticos asociados a la encuesta de condiciones de vida (Statistical indicators associated to the living conditions survey). Directed by Prof. Antonio Beato Moreno.<br>
+      <a href="https://idus.us.es/items/9be13c6a-8770-4e3c-bf99-70ebca4941d1">[URL]</a> <a href="https://victosdur.github.io/files/citations/statisticsbachelorthesis.bib">[Cite]</a>
     </li>
   </ul>
 </div>

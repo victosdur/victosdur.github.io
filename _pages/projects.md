@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects Involved"
+title: "Research Projects Involved"
 permalink: /projects/
 author_profile: true
 redirect_from:

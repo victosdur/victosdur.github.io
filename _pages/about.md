@@ -29,7 +29,7 @@ redirect_from:
 
 <p>
 
-I'm Victor Toscano Durán, an Artificial Intelligence researcher, and PhD Student at the University of Seville in the Applied Mathematics I, and in CIMAGROUP, which is led by Prof. Rocío González Díaz. Previously, I completed my Bachelor's Degree in Statistics at the University of Seville in 2022. Later, I obtained a Master's Degree in Logic, Computation, and Artificial Intelligence in 2023, also at the University of Seville. The PhD is being carried out under the supervision of Prof. <a href="https://personal.us.es/rogodi/index.htm">Rocío González Díaz</a>, <a href="https://www.cs.us.es/~naranjo/">Miguel Ángel Gutiérrez Naranjo</a>, and Dr. <a href="https://www.linkedin.com/in/matteo-rucco-15561a64/">Matteo Rucco</a>
+I'm Victor Toscano Durán, an Artificial Intelligence researcher, and PhD Student at the University of Seville in the Applied Mathematics I, and part of <a href="https://grupo.us.es/cimagroup/">CIMAgroup</a> research team. Previously, I completed my Bachelor's Degree in Statistics at the University of Seville in 2022. Later, I obtained a Master's Degree in Logic, Computation, and Artificial Intelligence in 2023, also at the University of Seville. The PhD is being carried out under the supervision of Prof. <a href="https://personal.us.es/rogodi/index.htm">Rocío González Díaz</a>, <a href="https://www.cs.us.es/~naranjo/">Miguel Ángel Gutiérrez Naranjo</a>, and Dr. <a href="https://www.linkedin.com/in/matteo-rucco-15561a64/">Matteo Rucco</a>
 </p>
 
 <p>
