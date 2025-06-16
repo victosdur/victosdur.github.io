@@ -17,7 +17,7 @@ redirect_from:
 
 <p>🌱 PhD Student in Mathematics and AI, specifically in the intersection between Topological Data Analysis and Machine Learning.</p>
 
-<p>🤔 My main interests are: Machine Learning, Deep Learning, Computer Vision, Data Analysis, and Applied AI. I am passionate about the use of data analysis techniques and AI tools for high impact applications in fields such as health, which is a topic I am particularly interested in and to which I have dedicated most of my work experience.
+<p>🤔 My main interests are: Machine Learning, Deep Learning, Computer Vision, Data Analysis, and Applied AI. I am passionate about the use of data analysis techniques and AI tools for high impact applications in fields such as health, which is a topic I am particularly interested in and to which I have dedicated most of my work experience.</p>
 
 </div>
 
