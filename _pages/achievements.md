@@ -20,7 +20,7 @@ redirect_from:
       October 2024, Seminar at Scuola di Robotica, Genova, Italy. <a href="https://victosdur.github.io/files/SlidesSeminarioGenova.pdf">Slides.</a>
     </li>
     <li>
-      </strong>Application of the representative measure approach to assess the reliability of decision trees in dealing with unseen vehicle collision data<strong><br>
+      <strong>Application of the representative measure approach to assess the reliability of decision trees in dealing with unseen vehicle collision data</strong><br>
       August 2024, Paper presentation at XAI 2024 conference, La Valetta, Malta. <a href="https://victosdur.github.io/files/Slides_XAI_final.pdf">Slides.</a>
     </li>
   </ul>
