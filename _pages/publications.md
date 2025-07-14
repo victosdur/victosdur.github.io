@@ -17,6 +17,13 @@ redirect_from:
 
   <ul>
     <li>
+      <strong>V. Toscano-Duran</strong>, F. Rottach, and B. Rieck. Molecular Machine Learning Using Euler Characteristic Transforms <br>
+      <a href="https://arxiv.org/abs/2507.03474">[URL]</a> <a href="https://victosdur.github.io/files/citations/ciabiomed2025preprint.bib">[Cite]</a>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
       <strong>V. Toscano-Duran</strong>, S. Narteni, A. Carlevaro, R. Gonzalez-Diaz, M. Mongelli, and J. Guzzi. Safe and efficient social navigation through explainable safety regions based on topological features. Submitted and accepted at The 3rd World Conference on eXplainable Artificial Intelligence. <br>
       <a href="https://arxiv.org/abs/2503.16441">[URL]</a> <a href="https://victosdur.github.io/files/citations/xai2025preprint.bib">[Cite]</a>
     </li>

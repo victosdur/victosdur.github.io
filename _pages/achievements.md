@@ -1,28 +1,27 @@
 ---
 layout: archive
-title: "Talks"
-permalink: /talks/
+title: "Achievements"
+permalink: /achievements/
 author_profile: true
 redirect_from:
-  - /talks
+  - /achievements
 ---
 
 <div>
 
-<h2> Talks </h2>
-
+<h2> Talks
   <ul>
     <li>
-      Interpolation and Function Approximation Using Neural Networks and Barycentric Coordinates<br>
-      January 2025, Slides for a talk at II Jornadas de Topología de Datos (TDA2025). <a href="https://victosdur.github.io/files/Slides_Logroño2025.pdf">Slides.</a>
+      <strong>Interpolation and Function Approximation Using Neural Networks and Barycentric Coordinates</strong><br>
+      January 2025, talk at II Jornadas de Topología de Datos (TDA2025). <a href="https://victosdur.github.io/files/Slides_Logroño2025.pdf">Slides.</a>
     </li>
     <li>
-      Topological Data Analysis for data analysis and AI in robotics<br>
-      October 2024, Slides for seminar at Scuola di Robotica, Genova, Italy. <a href="https://victosdur.github.io/files/SlidesSeminarioGenova.pdf">Slides.</a>
+      <strong>Topological Data Analysis for data analysis and AI in robotics</strong><br>
+      October 2024, Seminar at Scuola di Robotica, Genova, Italy. <a href="https://victosdur.github.io/files/SlidesSeminarioGenova.pdf">Slides.</a>
     </li>
     <li>
-      Application of the representative measure approach to assess the reliability of decision trees in dealing with unseen vehicle collision data<br>
-      August 2024, Slides for paper presentation at XAI 2024 conference, La Valetta, Malta. <a href="https://victosdur.github.io/files/Slides_XAI_final.pdf">Slides.</a>
+      </strong>Application of the representative measure approach to assess the reliability of decision trees in dealing with unseen vehicle collision data<strong><br>
+      August 2024, Paper presentation at XAI 2024 conference, La Valetta, Malta. <a href="https://victosdur.github.io/files/Slides_XAI_final.pdf">Slides.</a>
     </li>
   </ul>
 
@@ -30,20 +29,50 @@ redirect_from:
 
   <ul>
     <li>
-      Representative measure approach to assess decision trees reliability<br>
+      <strong>Representative measure approach to assess decision trees reliability</strong><br>
       Spires 2024. <a href="https://victosdur.github.io/files/Spires_Oxford_posterV_VTD.pdf">Poster.</a>
     </li>
     <li>
-      Topological Data Analysis for Trustworthy Artificial Intelligence<br>
+      <strong>Topological Data Analysis for Trustworthy Artificial Intelligence</strong><br>
       Doctoral Consortium XAI 2024. <a href="https://victosdur.github.io/files/Poster_DC_Malta.pdf">Poster.</a>
     </li>
     <li>
-      Representative measure approach to assess decision trees reliability<br>
+      <strong>Representative measure approach to assess decision trees reliability</strong><br>
       GATMAID EMS Summer School 2024. <a href="https://victosdur.github.io/files/GATMAID_EMS_SUMMER_SCHOOL_posterV_VTD.pdf">Poster.</a>
     </li>
   </ul>
 
+<h2> Courses & Certificates </h2>
 
+<ul>
+    <li>
+      <strong>NVIDIA DLI Certificate - "Fundamentals of Accelerated Data Science"</strong>. Credential ID Jkg8E3DnSZu7hLnQfgBLDQ.
+    </li>
+    <li>
+      <strong>NVIDIA DLI Certificate - "Fundamentals of Deep Learning"</strong>. Credential ID T0LN84tLTUKly-6eRmtGqA.
+    </li>
+  </ul>
+
+<h2> Conferences & Summer Schools Attended </h2>
+
+<ul>
+    <li>
+      <strong>Statistical Optimal Transport</strong> summer graduate workshop, Simons Laufer Mathematical Sciences Institute (SLMath), between June 09 and June 20, in Berkeley, California. Granted by SLMath.
+    </li>
+    <li>
+      <strong>II Jornadas de Topología de Datos (TDA2025)</strong>, University la Rioja, 30-31 January 2025, in Logroño, Spain.
+    </li>
+    <li>
+      <strong>Centre for Topological Data Analysis 2024 conference (Spires 2024) </strong>, University of Oxford, 7-9 August 2024, in Oxford, UK.
+    </li>
+    <li>
+      <strong>The 2nd World Conference on eXplainable Artificial Intelligence (XAI 2024)</strong>, 17-19 July 2024, in La Valletta, Malta.
+    </li>
+    <li>
+      <strong>GATMAID (Geometric, Algebra and Topology in Machine learning, Artificial Intelligence and Big data)</strong> EMS summer school, Centre de Recerca Matemàtica, between June 25 and June 29, in Barcelona, Spain. 
+    </li>
+  </ul>
+  
 </div>
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
