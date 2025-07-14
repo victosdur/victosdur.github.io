@@ -9,7 +9,7 @@ redirect_from:
 
 <div>
 
-<h2> Talks
+<h2> Talks </h2>
   <ul>
     <li>
       <strong>Interpolation and Function Approximation Using Neural Networks and Barycentric Coordinates</strong><br>
