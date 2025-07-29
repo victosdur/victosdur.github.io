@@ -17,12 +17,9 @@ redirect_from:
 
   <ul>
     <li>
-      <strong>V. Toscano-Duran</strong>, F. Rottach, and B. Rieck. Molecular Machine Learning Using Euler Characteristic Transforms <br>
+      <strong>V. Toscano-Duran</strong>, F. Rottach, and B. Rieck. Molecular Machine Learning Using Euler Characteristic Transforms. Submitted and accepted at I Congreso de la Sociedad Española de IA en Biomedicina (CIABiomed). <br>
       <a href="https://arxiv.org/abs/2507.03474">[URL]</a> <a href="https://victosdur.github.io/files/citations/ciabiomed2025preprint.bib">[Cite]</a>
     </li>
-  </ul>
-
-  <ul>
     <li>
       <strong>V. Toscano-Duran</strong>, S. Narteni, A. Carlevaro, R. Gonzalez-Diaz, M. Mongelli, and J. Guzzi. Safe and efficient social navigation through explainable safety regions based on topological features. Submitted and accepted at The 3rd World Conference on eXplainable Artificial Intelligence. <br>
       <a href="https://arxiv.org/abs/2503.16441">[URL]</a> <a href="https://victosdur.github.io/files/citations/xai2025preprint.bib">[Cite]</a>
@@ -32,6 +29,10 @@ redirect_from:
   <h2>Journal Articles</h2>
 
   <ul>
+    <li>
+      Perera-Lago J., <strong>Toscano-Duran V.</strong>, Torras-Casas A., Gonzalez-Diaz R. (2024). Topology-based analysis and optimization for agent fleet behavior. Open Res Europe 2025, 5:200<br>
+      <a href="https://doi.org/10.12688/openreseurope.20760.1">[URL]</a> <a href="https://victosdur.github.io/files/citations/ore2025.bib">[Cite]</a>
+    </li>
     <li>
       Perera-Lago J., <strong>Toscano-Duran V.</strong>, Gonzalez-Diaz R., Gutiérrez-Naranjo M., Rucco M., Paluzo-Hidalgo, E. (2024). An in-depth analysis of data reduction methods for sustainable deep learning. Open Res Europe 2024, 4:101<br>
       <a href="https://doi.org/10.12688/openreseurope.17554.2">[URL]</a> <a href="https://victosdur.github.io/files/citations/ore2024.bib">[Cite]</a>
