@@ -48,6 +48,15 @@ redirect_from:
     </li>
   </ul>
 
+  <h2>Workshop Contributions</h2>
+
+  <ul>
+    <li>
+      <strong>Toscano-Duran, V.</strong>, Rieck, B. A Topological Molecular Representation for Molecular Learning Based on the Euler Characteristic Transform. ECML-PKDD 2025 conference, Mining and Learning with Graphs (MLG) Workshop.<br>
+      <a href="https://mlg-europe.github.io/2025/#accepted">[Link]</a>
+    </li>
+  </ul>
+
   <h2>Statistics bachelor thesis</h2>
 
   <ul>
