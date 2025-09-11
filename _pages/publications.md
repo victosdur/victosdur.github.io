@@ -13,55 +13,49 @@ redirect_from:
   You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
   </p>
 
-  <h2>Preprints</h2>
+  <h2>2025</h2>
 
   <ul>
     <li>
-      <strong>V. Toscano-Duran</strong>, F. Rottach, and B. Rieck. Molecular Machine Learning Using Euler Characteristic Transforms. Submitted and accepted at I Congreso de la Sociedad Española de IA en Biomedicina (CIABiomed). <br>
-      <a href="https://arxiv.org/abs/2507.03474">[URL]</a> <a href="https://victosdur.github.io/files/citations/ciabiomed2025preprint.bib">[Cite]</a>
+      <strong>V. Toscano-Duran</strong>, R. Gonzalez-Diaz, and Miguel A. Gutiérrez-Naranjo: <em>Barycentric Neural Networks and Length-Weighted Persistent Entropy Loss: A Green Geometric and Topological Framework for Function Approximation</em>, Preprint, 2025. <br>
+      <a href="https://arxiv.org/abs/2509.06694">[Preprint]</a>
     </li>
     <li>
-      <strong>V. Toscano-Duran</strong>, S. Narteni, A. Carlevaro, R. Gonzalez-Diaz, M. Mongelli, and J. Guzzi. Safe and efficient social navigation through explainable safety regions based on topological features. Submitted and accepted at The 3rd World Conference on eXplainable Artificial Intelligence. <br>
-      <a href="https://arxiv.org/abs/2503.16441">[URL]</a> <a href="https://victosdur.github.io/files/citations/xai2025preprint.bib">[Cite]</a>
+      <strong>V. Toscano-Duran</strong>, F. Rottach, and B. Rieck: <em>Molecular Machine Learning Using Euler Characteristic Transforms</em>, Proocedings of the 1st Conference of the Spanish Society of Artificial Intelligence in Biomedicine, 2025 (accepted, to appear). <br>
+      <a href="https://arxiv.org/abs/2507.03474">[Preprint]</a>
     </li>
-  </ul>
-
-  <h2>Journal Articles</h2>
-
-  <ul>
     <li>
-      Perera-Lago J., <strong>Toscano-Duran V.</strong>, Torras-Casas A., Gonzalez-Diaz R. (2024). Topology-based analysis and optimization for agent fleet behavior. Open Res Europe 2025, 5:200<br>
+      <strong>V. Toscano-Duran</strong>, and B. Rieck: <em>A Topological Molecular Representation for Molecular Learning Based on the Euler Characteristic Transform</em>, ECML-PKDD Workshop on Mining and Learning with Graphs, 2025.<br>
+      <a href="https://mlg-europe.github.io/2025/papers/cameraReady/21/CameraReady/Mining_Learning_with_Graphs_Workshop_ECMLPKDD_CameraReadyVersion.pdf">[Link]</a>
+    </li>
+    <li>
+      J. Perera-Lago, <strong>V. Toscano-Duran</strong>, A. Torras-Casas, and R. Gonzalez-Diaz: <em>Topology-based analysis and optimization for agent fleet behavior</em>, Open Res Europe, 5:200, 2025.<br>
       <a href="https://doi.org/10.12688/openreseurope.20760.1">[URL]</a> <a href="https://victosdur.github.io/files/citations/ore2025.bib">[Cite]</a>
     </li>
     <li>
-      Perera-Lago J., <strong>Toscano-Duran V.</strong>, Gonzalez-Diaz R., Gutiérrez-Naranjo M., Rucco M., Paluzo-Hidalgo, E. (2024). An in-depth analysis of data reduction methods for sustainable deep learning. Open Res Europe 2024, 4:101<br>
+      <strong>V. Toscano-Duran</strong>, S. Narteni, A. Carlevaro, R. Gonzalez-Diaz, M. Mongelli, and J. Guzzi: <em>Safe and efficient social navigation through explainable safety regions based on topological features</em>, Proceedings of The 3rd World Conference on eXplainable Artificial Intelligence (to appear). <br>
+      <a href="https://arxiv.org/abs/2503.16441">[URL(Preprint)]</a> <a href="https://victosdur.github.io/files/citations/xai2025preprint.bib">[Cite]</a>
+    </li>
+  </ul>
+
+  <h2>2024</h2>
+
+  <ul>
+    <li>
+      J. Perera-Lago, <strong>V. Toscano-Duran</strong>, E. Paluzo-Hidalgo, S. Narteni,and  M. Rucco: <em>Application of the Representative Measure Approach to Assess the Reliability of Decision Trees in Dealing with Unseen Vehicle Collision Data</em>, Proocedings of the Second World Conference on eXplainable Artificial Intelligence, Communications in Computer and Information Science, vol 2156, pp 384–395, Springer, Cham, 2024.<br>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-031-63803-9_21">[URL]</a> <a href="https://victosdur.github.io/files/citations/xai2024.bib">[Cite]</a>
+    </li>
+    <li>
+      J. Perera-Lago, <strong>V. Toscano-Duran</strong>, R. Gonzalez-Diaz, Miguel A. Gutiérrez-Naranjo, M. Rucco, and E. Paluzo-Hidalgo: <em>An in-depth analysis of data reduction methods for sustainable deep learning</em>, Open Res Europe, 4:101, 2024.<br>
       <a href="https://doi.org/10.12688/openreseurope.17554.2">[URL]</a> <a href="https://victosdur.github.io/files/citations/ore2024.bib">[Cite]</a>
     </li>
   </ul>
 
-  <h2>Conference Proceedings</h2>
+  <h2>2022</h2>
 
   <ul>
     <li>
-      Perera-Lago, J., <strong>Toscano-Duran, V.</strong>, Paluzo-Hidalgo, E., Narteni, S., Rucco, M. (2024). Application of the Representative Measure Approach to Assess the Reliability of Decision Trees in Dealing with Unseen Vehicle Collision Data. In: Longo, L., Lapuschkin, S., Seifert, C. (eds) Explainable Artificial Intelligence. xAI 2024. Communications in Computer and Information Science, vol 2156. Springer, Cham.<br>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-031-63803-9_21">[URL]</a> <a href="https://victosdur.github.io/files/citations/xai2024.bib">[Cite]</a>
-    </li>
-  </ul>
-
-  <h2>Workshop Contributions</h2>
-
-  <ul>
-    <li>
-      <strong>Toscano-Duran, V.</strong>, Rieck, B. A Topological Molecular Representation for Molecular Learning Based on the Euler Characteristic Transform. ECML-PKDD 2025 conference, Mining and Learning with Graphs (MLG) Workshop.<br>
-      <a href="https://mlg-europe.github.io/2025/#accepted">[Link]</a>
-    </li>
-  </ul>
-
-  <h2>Statistics bachelor thesis</h2>
-
-  <ul>
-    <li>
-      Indicadores estadísticos asociados a la encuesta de condiciones de vida (Statistical indicators associated to the living conditions survey). Directed by Prof. Antonio Beato Moreno.<br>
+      Toscano-Duran, V.: <em>Indicadores estadísticos asociados a la encuesta de condiciones de vida (Statistical indicators associated to the living conditions survey) </em>, Unpublished Final Degree Project, University of Seville, 2022.<br>
       <a href="https://idus.us.es/items/9be13c6a-8770-4e3c-bf99-70ebca4941d1">[URL]</a> <a href="https://victosdur.github.io/files/citations/statisticsbachelorthesis.bib">[Cite]</a>
     </li>
   </ul>
