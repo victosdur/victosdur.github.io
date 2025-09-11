@@ -26,15 +26,15 @@ redirect_from:
     </li>
     <li>
       <strong>V. Toscano-Duran</strong>, and B. Rieck: <em>A Topological Molecular Representation for Molecular Learning Based on the Euler Characteristic Transform</em>, ECML-PKDD Workshop on Mining and Learning with Graphs, 2025.<br>
-      <a href="https://mlg-europe.github.io/2025/papers/cameraReady/21/CameraReady/Mining_Learning_with_Graphs_Workshop_ECMLPKDD_CameraReadyVersion.pdf">[Link]</a>
+      <a href="https://mlg-europe.github.io/2025/papers/cameraReady/21/CameraReady/Mining_Learning_with_Graphs_Workshop_ECMLPKDD_CameraReadyVersion.pdf">[URL]</a>
     </li>
     <li>
       J. Perera-Lago, <strong>V. Toscano-Duran</strong>, A. Torras-Casas, and R. Gonzalez-Diaz: <em>Topology-based analysis and optimization for agent fleet behavior</em>, Open Res Europe, 5:200, 2025.<br>
       <a href="https://doi.org/10.12688/openreseurope.20760.1">[URL]</a> <a href="https://victosdur.github.io/files/citations/ore2025.bib">[Cite]</a>
     </li>
     <li>
-      <strong>V. Toscano-Duran</strong>, S. Narteni, A. Carlevaro, R. Gonzalez-Diaz, M. Mongelli, and J. Guzzi: <em>Safe and efficient social navigation through explainable safety regions based on topological features</em>, Proceedings of The 3rd World Conference on eXplainable Artificial Intelligence (to appear). <br>
-      <a href="https://arxiv.org/abs/2503.16441">[URL(Preprint)]</a> <a href="https://victosdur.github.io/files/citations/xai2025preprint.bib">[Cite]</a>
+      <strong>V. Toscano-Duran</strong>, S. Narteni, A. Carlevaro, R. Gonzalez-Diaz, M. Mongelli, and J. Guzzi: <em>Safe and efficient social navigation through explainable safety regions based on topological features</em>, Proceedings of The 3rd World Conference on eXplainable Artificial Intelligence, 2025 (accepted, to appear). <br>
+      <a href="https://arxiv.org/abs/2503.16441">[Preprint]</a>
     </li>
   </ul>
 
@@ -42,7 +42,7 @@ redirect_from:
 
   <ul>
     <li>
-      J. Perera-Lago, <strong>V. Toscano-Duran</strong>, E. Paluzo-Hidalgo, S. Narteni,and  M. Rucco: <em>Application of the Representative Measure Approach to Assess the Reliability of Decision Trees in Dealing with Unseen Vehicle Collision Data</em>, Proocedings of the Second World Conference on eXplainable Artificial Intelligence, Communications in Computer and Information Science, vol 2156, pp 384–395, Springer, Cham, 2024.<br>
+      J. Perera-Lago, <strong>V. Toscano-Duran</strong>, E. Paluzo-Hidalgo, S. Narteni, and  M. Rucco: <em>Application of the Representative Measure Approach to Assess the Reliability of Decision Trees in Dealing with Unseen Vehicle Collision Data</em>, Proocedings of the Second World Conference on eXplainable Artificial Intelligence, Communications in Computer and Information Science, vol 2156, pp 384–395, Springer, Cham, 2024.<br>
       <a href="https://link.springer.com/chapter/10.1007/978-3-031-63803-9_21">[URL]</a> <a href="https://victosdur.github.io/files/citations/xai2024.bib">[Cite]</a>
     </li>
     <li>
@@ -55,7 +55,7 @@ redirect_from:
 
   <ul>
     <li>
-      Toscano-Duran, V.: <em>Indicadores estadísticos asociados a la encuesta de condiciones de vida (Statistical indicators associated to the living conditions survey) </em>, Unpublished Final Degree Project, University of Seville, 2022.<br>
+      V. Toscano-Duran: <em>Indicadores estadísticos asociados a la encuesta de condiciones de vida (Statistical indicators associated to the living conditions survey)</em>, Unpublished Final Degree Project, University of Seville, 2022.<br>
       <a href="https://idus.us.es/items/9be13c6a-8770-4e3c-bf99-70ebca4941d1">[URL]</a> <a href="https://victosdur.github.io/files/citations/statisticsbachelorthesis.bib">[Cite]</a>
     </li>
   </ul>
