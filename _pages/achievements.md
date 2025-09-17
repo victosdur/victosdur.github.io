@@ -33,10 +33,6 @@ redirect_from:
       Spires 2024. <a href="https://victosdur.github.io/files/Spires_Oxford_posterV_VTD.pdf">Poster.</a>
     </li>
     <li>
-      <strong>Topological Data Analysis for Trustworthy Artificial Intelligence</strong><br>
-      Doctoral Consortium XAI 2024. <a href="https://victosdur.github.io/files/Poster_DC_Malta.pdf">Poster.</a>
-    </li>
-    <li>
       <strong>Representative measure approach to assess decision trees reliability</strong><br>
       GATMAID EMS Summer School 2024. <a href="https://victosdur.github.io/files/GATMAID_EMS_SUMMER_SCHOOL_posterV_VTD.pdf">Poster.</a>
     </li>

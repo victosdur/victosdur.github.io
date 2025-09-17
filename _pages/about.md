@@ -27,7 +27,7 @@ redirect_from:
 
 <p>
 
-My name is Víctor Toscano Durán. I am a Data Scientist and Artificial Intelligence researcher, currently pursuing my PhD at the University of Seville in the Department of Applied Mathematics I, as a member of the <a href="https://grupo.us.es/cimagroup/">CIMAgroup</a> research team. Previously, I completed my Bachelor's Degree in Statistics at the University of Seville in 2022. Later, I obtained a Master's Degree in Logic, Computation, and Artificial Intelligence in 2023, also at the University of Seville. The PhD is being carried out under the supervision of Prof. <a href="https://personal.us.es/rogodi/index.htm">Rocío González Díaz</a>, <a href="https://www.cs.us.es/~naranjo/">Miguel Ángel Gutiérrez Naranjo</a>, and Dr. <a href="https://www.linkedin.com/in/matteo-rucco-15561a64/">Matteo Rucco</a>
+My name is Víctor Toscano Durán. I am a Data Scientist and Artificial Intelligence researcher at the University of Seville in the Department of Applied Mathematics I, as a member of the <a href="https://grupo.us.es/cimagroup/">CIMAgroup</a> research team. Previously, I completed my Bachelor's Degree in Statistics at the University of Seville in 2022. Later, I obtained a Master's Degree in Logic, Computation, and Artificial Intelligence in 2023, also at the University of Seville.
 </p>
 
 <p>
@@ -40,10 +40,6 @@ Since December 2023, I am a researcher in the Department of Applied Mathematics 
 
 <p>
 Additionally, between April and June 2025 (6th April to 6th June), I visited <a href="https://bastian.rieck.me/">Prof. Dr. Bastian Rieck</a> and his lab, the <a href="https://aidos.group/">AIDOS Lab</a> based in the University of Fribourg, Switzerland. The main objective of this research stay was to use topological tools, such as the Euler Characteristic Transform, in the context of computational healthcare, more specifically in molecule learning tasks, and to find out more about what he was working on, with the aim of creating a fruitful collaboration for the future.
-</p>
-
-<p>
-PhD main objective is about exploring how to effectively integrate TDA at different levels of the machine learning process, from feature extraction to the design and evaluation of machine learning techniques and especially neural networks.
 </p>
 
 <p>
