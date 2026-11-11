@@ -1,24 +1,15 @@
-# Base image: Ruby with necessary dependencies for Jekyll
-FROM ruby:3.2
 
-# Install dependencies
-RUN apt-get update && apt-get install -y \
-    build-essential \
-    nodejs \
-    && rm -rf /var/lib/apt/lists/*
+FROM nginx:alpine
 
-# Set the working directory inside the container
-WORKDIR /usr/src/app
+# Copy website files
+COPY index.html /usr/share/nginx/html/
+COPY styles.css /usr/share/nginx/html/
+COPY script.js /usr/share/nginx/html/
+COPY assets/ /usr/share/nginx/html/assets/
 
-# Copy Gemfile into the container (necessary for `bundle install`)
-COPY Gemfile ./
+# Expose HTTP port
+EXPOSE 80
 
-# Install bundler and dependencies
-RUN gem install bundler:2.3.26 && bundle install
-
-# Expose port 4000 for Jekyll server
-EXPOSE 4000
-
-# Command to serve the Jekyll site
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--watch"]
-
+# Health check
+HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
+    CMD wget -q --spider http://127.0.0.1/ || exit 1
